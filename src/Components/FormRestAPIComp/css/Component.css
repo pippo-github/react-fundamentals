@@ -1,0 +1,13 @@
+.my_style_label {
+    color: white;
+    padding: 11px;
+}
+
+.my_style_div {
+    text-align: left;
+    margin-top: 44px;
+    background: black;
+    color: green;
+    padding: 7px;
+    min-height: 80px;
+}

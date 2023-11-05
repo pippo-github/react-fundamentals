@@ -1,0 +1,25 @@
+.my_style_div{
+    text-align: left;
+    margin-top: 44px;
+    background: black;
+    color: yellow;
+    padding: 7px;
+    min-height: 280px;
+}
+
+.my_style_label {
+    color: white;
+    padding: 11px;
+}
+
+p{
+    margin-bottom: -7px;
+}
+
+p:nth-child(1){
+    margin-top: 44px;
+}
+
+p:last-child{
+    margin-bottom: 44px;
+}

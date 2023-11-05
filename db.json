@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1699202154891",
+      "name": "Giuseppe",
+      "prename": "Tarallo",
+      "message": "This is a message in a bottle"
+    },
+    {
+      "id": "1699202185903",
+      "name": "jerry",
+      "prename": "calá",
+      "message": "doppia libidine del mega direttore galattico"
+    }
+  ]
+}
